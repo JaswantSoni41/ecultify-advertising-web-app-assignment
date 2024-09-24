@@ -58,6 +58,27 @@ This step is additional for a ShadCN components are install properly or not succ
 
 ## Getting Started
 
+** IMPORTANT! : Before Started just Comment the output: "export" like this which was given in the code below, after doning that then you can proceed to next step
+
+```bash
+ /** @type {import('next').NextConfig} */
+const nextConfig = {
+  // output: "export",
+  images: {
+    remotePatterns: [
+      {
+        protocol: "http",
+        hostname: "**",
+      },
+      {
+        protocol: "https",
+        hostname: "**",
+      },
+    ],
+  },
+};
+```
+
 First, run the development server:
 
 ```bash
