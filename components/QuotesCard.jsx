@@ -9,7 +9,7 @@ const QuotesCard = (props) => {
           <div className="h-[50px] w-[50px] rounded-full border overflow-hidden relative">
             <Image
               src={props.url}
-              fill
+              fill unoptimized
               sizes="50px"
               alt="profile"
               className="object-contain"

@@ -24,6 +24,7 @@ const Navbar = () => {
               height={25}
               alt="Logo"
               priority={true}
+              unoptimized
             />
           </Link>
         </h1>
