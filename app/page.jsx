@@ -58,7 +58,7 @@ export default function Home() {
 
     // Cleanup on unmount
     return () => window.removeEventListener("resize", handleResize);
-  }, []);
+  }, [breakpoints.lg, breakpoints.md, breakpoints.sm, breakpoints.xl]);
 
   const quotes = [
     {

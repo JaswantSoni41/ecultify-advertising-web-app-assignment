@@ -3,7 +3,7 @@ import Image from "next/image";
 const QuotesCard = (props) => {
   return (
     <div className="md:max-w-[20.875rem] lg:max-w-full p-4 border rounded-lg">
-      <h3 className="font-bold text-xl mb-6">"Quote"</h3>
+      <h3 className="font-bold text-xl mb-6">&quot;Quote&quot;</h3>
       <div className="flex gap-2 items-center justify-start">
         <div className="image flex-shrink-0">
           <div className="h-[50px] w-[50px] rounded-full border overflow-hidden relative">
