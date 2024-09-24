@@ -19,12 +19,11 @@ const Navbar = () => {
         <h1 className="relative">
           <Link href={"/"}>
             <Image
-              src={"/icons/Figma.svg"}
+              src={"https://jaswantsoni41.github.io/ecultify-advertising-web-app-assignment/icons/Figma.svg"}
               width={25}
               height={25}
               alt="Logo"
               priority={true}
-              unoptimized
             />
           </Link>
         </h1>
@@ -42,7 +41,7 @@ const Navbar = () => {
                   <SheetTitle >
                       <Link href={"/"} className="flex">
                         <Image
-                          src={"/icons/Figma.svg"}
+                          src={"https://jaswantsoni41.github.io/ecultify-advertising-web-app-assignment/icons/Figma.svg"}
                           width={25}
                           height={25}
                           alt="Logo"

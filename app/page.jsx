@@ -64,7 +64,7 @@ export default function Home() {
     {
       title: "Title",
       quote: "Description",
-      imageUrl: "/icons/avtar.gif",
+      imageUrl: "https://jaswantsoni41.github.io/ecultify-advertising-web-app-assignment/icons/avtar.gif",
       description:
         "A motivational reminder to pursue your dreams with passion and confidence, as they hold the key to shaping your future.",
       link: "/",
@@ -73,7 +73,7 @@ export default function Home() {
       title: "The Power of Persistence",
       quote:
         "Success is the sum of small efforts, repeated day in and day out.",
-      imageUrl: "/icons/avtar.gif",
+      imageUrl: "https://jaswantsoni41.github.io/ecultify-advertising-web-app-assignment/icons/avtar.gif",
       description:
         "This quote highlights the importance of consistent effort in achieving long-term success, no matter how small the steps may seem.",
       link: "/",
@@ -82,7 +82,7 @@ export default function Home() {
       title: "Embrace Change",
       quote:
         "Change is the only constant in life. Embrace it, and you will thrive.",
-      imageUrl: "/icons/avtar.gif",
+      imageUrl: "https://jaswantsoni41.github.io/ecultify-advertising-web-app-assignment/icons/avtar.gif",
       description:
         "A reminder that accepting and adapting to life's inevitable changes leads to personal growth and resilience.",
       link: "/",
@@ -90,7 +90,7 @@ export default function Home() {
     {
       title: "Courage Over Fear",
       quote: "Courage is not the absence of fear, but the triumph over it.",
-      imageUrl: "/icons/avtar.gif",
+      imageUrl: "https://jaswantsoni41.github.io/ecultify-advertising-web-app-assignment/icons/avtar.gif",
       description:
         "This quote inspires individuals to face challenges head-on, understanding that courage comes from overcoming fear.",
       link: "/",
@@ -98,7 +98,7 @@ export default function Home() {
     {
       title: "The Beauty of Simplicity",
       quote: "Simplicity is the ultimate sophistication.",
-      imageUrl: "/icons/avtar.gif",
+      imageUrl: "https://jaswantsoni41.github.io/ecultify-advertising-web-app-assignment/icons/avtar.gif",
       description:
         "A celebration of simplicity as the key to elegance and effectiveness in both life and design.",
       link: "/",
@@ -107,7 +107,7 @@ export default function Home() {
       title: "The Journey of Growth",
       quote:
         "Growth is never by mere chance; it is the result of forces working together.",
-      imageUrl: "/icons/avtar.gif",
+      imageUrl: "https://jaswantsoni41.github.io/ecultify-advertising-web-app-assignment/icons/avtar.gif",
       description:
         "This quote reflects on the collaborative nature of growth, whether personal or professional, emphasizing the role of collective effort.",
       link: "/",
@@ -116,7 +116,7 @@ export default function Home() {
       title: "Dream Big, Act Now",
       quote:
         "The future belongs to those who believe in the beauty of their dreams.",
-      imageUrl: "/icons/avtar.gif",
+      imageUrl: "https://jaswantsoni41.github.io/ecultify-advertising-web-app-assignment/icons/avtar.gif",
       description:
         "A motivational reminder to pursue your dreams with passion and confidence, as they hold the key to shaping your future.",
       link: "/",
